@@ -1,0 +1,52 @@
+- https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
+- https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca
+- https://en.wikipedia.org/wiki/Singular_spectrum_analysis
+- https://stats.stackexchange.com/questions/158281/can-pca-be-applied-for-time-series-data
+
+maths:
+- https://online.stat.psu.edu/stat505/lesson/11/11.2
+
+papier:
+- https://www.sciencedirect.com/science/article/pii/S2212567116303045?ref=pdf_download&fr=RR-2&rr=83eb76473aced62a
+
+
+- S&P/Case-Shiller U.S. National Home Price Index (CSUSHPISA)
+#### Rates
+- Federal Funds Effective Rate (FEDFUNDS) *x*
+- 30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US) *x*
+- 10-Year Real Interest Rate (REAINTRATREARAT10Y)
+- Personal Saving Rate (PSAVERT)
+- XXX / Personal Saving (PMSAVE)
+- Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10)
+#### Economics
+- US Monthly GDP (MGDP) Index
+> https://www.spglobal.com/marketintelligence/en/mi/products/us-monthly-gdp-index.html
+- XXX / Gross Domestic Product (GDP)
+- XXX / Real Gross Domestic Product (GDPC1)
+- XXX / Leading Indicators OECD: Reference Series: Gross Domestic Product (GDP): Normalised for United States (USALORSGPNOSTSAM)
+- XXX / Real Potential Gross Domestic Product (GDPPOT)
+- Currency in Circulation (CURRCIR)
+- M2 (M2SL)
+- Industrial Production: Total Index (INDPRO)
+- Unemployment Rate (UNRATE) *x*
+- Labor Force Participation Rate (CIVPART)
+- Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) *x*
+- XXX /Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average (CPILFESL)
+- University of Michigan: Inflation Expectation (MICH)
+- Real-time Sahm Rule Recession Indicator (SAHMREALTIME)
+- XXX / GDP-Based Recession Indicator Index (JHGDPBRINDX)
+- XXX / Deflation Probability (STLPPMDEF)
+#### Household
+- Personal Consumption Expenditures (PCE)
+- XXX / Real Personal Consumption Expenditures (PCEC96)
+- Real Disposable Personal Income (DSPIC96) *x*
+- Household Estimates (TTLHHM156N)
+- XXX / Population Level - 55 Yrs. & over (LNU00024230)
+- XXX / Population Level (CNP16OV)
+#### Banking
+- Total Consumer Credit Owned and Securitized (TOTALSL)
+- XXX / Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks (CCLACBW027SBOG)
+- Deposits, All Commercial Banks (DPSACBW027SBOG)
+#### Housing
+- Monthly Supply of New Houses in the United States (MSACSR)
+- XXX / New Privately-Owned Housing Units Started: Total Units (HOUST)
